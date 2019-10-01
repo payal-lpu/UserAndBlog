@@ -1,0 +1,7 @@
+I created 2 tables manually in login database
+
+1. User table 
+   Fields are username varchar(255),password(255)
+
+2. Blog table
+   Fields are title(255),content(255),data(255),user(255)
